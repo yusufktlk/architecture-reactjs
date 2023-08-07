@@ -6,7 +6,7 @@ function Contacts() {
       <div className='flex flex-col ml-6 md:ml-24'>
           <h1 className='text-6xl md:text-7xl text-[#BDBDBD] tracking-widest'>Contact</h1>
           <p className='text-6xl md:text-7xl font-bold'>Information</p>
-          <div className='flex flex-col ml-2 md:ml-0 md:m-0 gap-y-8 md:gap-y-16 mt-10 text-lg'>
+          <div className='flex flex-col ml-2 md:ml-0 md:m-0 gap-y-8 md:gap-y-16 mt-16 text-lg'>
               <h1>
               Company Name <br/>
               1234 Sample Street Austin Texas 76401
